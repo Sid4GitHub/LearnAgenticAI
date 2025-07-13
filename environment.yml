@@ -188,7 +188,9 @@ dependencies:
       - click==8.2.1
       - coloredlogs==15.0.1
       - ddg==0.2.2
+      - ddgs==9.1.2
       - distro==1.9.0
+      - duckduckgo-search==8.1.1
       - durationpy==0.10
       - flatbuffers==25.2.10
       - google-auth==2.40.3
@@ -204,6 +206,7 @@ dependencies:
       - langgraph==0.5.2
       - langgraph-checkpoint==2.1.0
       - langgraph-prebuilt==0.5.2
+      - lxml==6.0.0
       - markdown-it-py==3.0.0
       - mdurl==0.1.2
       - mmh3==5.1.0
@@ -220,6 +223,7 @@ dependencies:
       - ormsgpack==1.10.0
       - overrides==7.7.0
       - posthog==5.4.0
+      - primp==0.15.0
       - protobuf==6.31.1
       - pyasn1==0.6.1
       - pyasn1-modules==0.4.2
