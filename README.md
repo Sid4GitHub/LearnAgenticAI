@@ -49,16 +49,16 @@
 ## Repository Structure
 
 ```
-├── examples/             # Self‑contained agent examples
-│   ├── langchain/ # Basic LangChain agent
-│   │   ├── notebooks/    # Jupyter notebooks
-│   ├── langgraph/ # Stateful, graph‑based workflows
-│   │   ├── notebooks/      # Jupyter notebooks
-│   └── ollama_demo/      # Inference with Ollama
-├── notebooks/            # Jupyter notebooks for exploration
-├── .env                  # load environment variable using dotenv
-├── environment.yml       # Conda environment specification
-└── README.md             # This file
+├── examples/           # Self‑contained agent examples
+│   ├── langchain/      # Basic LangChain agent
+│   │   ├── notebooks/  # Jupyter notebooks
+│   ├── langgraph/      # Stateful, graph‑based workflows
+│   │   ├── notebooks/  # Jupyter notebooks
+│   └── ollama_demo/    # Inference with Ollama
+├── notebooks/          # Jupyter notebooks for exploration
+├── .env                # load environment variable using dotenv
+├── environment.yml     # Conda environment specification
+└── README.md           # This file
 ```
 
 ## Getting Started
