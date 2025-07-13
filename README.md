@@ -49,7 +49,6 @@
 ## Repository Structure
 
 ```
-├── environment.yml       # Conda environment specification
 ├── examples/             # Self‑contained agent examples
 │   ├── langchain/ # Basic LangChain agent
 │   │   ├── notebooks/    # Jupyter notebooks
@@ -57,6 +56,8 @@
 │   │   ├── notebooks/      # Jupyter notebooks
 │   └── ollama_demo/      # Inference with Ollama
 ├── notebooks/            # Jupyter notebooks for exploration
+├── .env                  # load environment variable using dotenv
+├── environment.yml       # Conda environment specification
 └── README.md             # This file
 ```
 
