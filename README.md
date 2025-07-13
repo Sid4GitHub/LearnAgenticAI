@@ -1,5 +1,4 @@
-````markdown
-# LearnAgenticAI
+ # LearnAgenticAI
 
 ## Overview
 **LearnAgenticAI** is a hands‑on repository designed to help you explore and build **agentic AI** applications using cutting‑edge tools and frameworks. Through code examples and tutorials, you’ll learn how to orchestrate long‑running, stateful AI agents capable of complex reasoning and task automation.
@@ -15,7 +14,7 @@
   Isolate dependencies and manage reproducible development environments with Conda.
 
 ## Prerequisites
-- **Python:** ≥ 3.9  
+- **Python:** ≥ 3.12.3  
 - **Conda:** Anaconda or Miniconda installed  
 - **Ollama:** Installed locally (see References)  
 - **Git:** for cloning this repository
@@ -26,8 +25,7 @@
    ```bash
    git clone https://github.com/your‑username/LearnAgenticAI.git
    cd LearnAgenticAI
-````
-
+ 
 2. **Create & activate Conda env**
 
    ```bash
@@ -53,9 +51,9 @@
 ```
 ├── environment.yml       # Conda environment specification
 ├── examples/             # Self‑contained agent examples
-│   ├── langchain_simple/ # Basic LangChain agent
+│   ├── langchain/ # Basic LangChain agent
 │   │   ├── notebooks/    # Jupyter notebooks
-│   ├── langgraph_advanced/ # Stateful, graph‑based workflows
+│   ├── langgraph/ # Stateful, graph‑based workflows
 │   │   ├── notebooks/      # Jupyter notebooks
 │   └── ollama_demo/      # Inference with Ollama
 ├── notebooks/            # Jupyter notebooks for exploration
