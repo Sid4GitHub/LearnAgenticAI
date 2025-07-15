@@ -1,4 +1,4 @@
-name: D:\Work\miniconda_env\agentic_ai
+name: agentic_ai
 channels:
   - conda-forge
   - defaults
@@ -244,4 +244,4 @@ dependencies:
       - watchfiles==1.1.0
       - websocket-client==1.8.0
       - websockets==15.0.1
-prefix: D:\Work\miniconda_env\agentic_ai
+      
