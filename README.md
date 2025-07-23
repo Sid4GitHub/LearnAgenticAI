@@ -54,7 +54,8 @@
 │   │   ├── notebooks/  # Jupyter notebooks
 │   ├── langgraph/      # Stateful, graph‑based workflows
 │   │   ├── notebooks/  # Jupyter notebooks
-│   └── ollama_demo/    # Inference with Ollama
+│   ├── ollama_demo/    # Inference with Ollama
+│   └── mcp/            # MCP Server     
 ├── notebooks/          # Jupyter notebooks for exploration
 ├── .env                # load environment variable using dotenv
 ├── environment.yml     # Conda environment specification
