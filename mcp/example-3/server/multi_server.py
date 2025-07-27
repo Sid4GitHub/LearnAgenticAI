@@ -1,6 +1,7 @@
 from fastmcp import FastMCP
 
-#python .\server\multi_server.py
+# python .\server\multi_server.py
+# npx @modelcontextprotocol/inspector
 
 mcp = FastMCP("Math")
 
